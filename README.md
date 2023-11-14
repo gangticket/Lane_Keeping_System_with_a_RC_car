@@ -1,4 +1,13 @@
-# 자율주행 데브코스 1차 오프라인 프로젝트를 위한 C++ 주행 예제 코드  
-1. 허프변환과 PID 제어를 사용한 Lane Keeping 알고리즘.  
-2. ROS package 사용을 위해 `차선인식 프로젝트` 폴더명을 영어로 변경해 `catkin_make`로 빌드 후 사용.
-3. 이슈를 반영한 C++ 코드 수정
+# Lane_Keeping_System_with_a_RC_car
+
+<img width="287" alt="image" src="https://github.com/gangticket/Lane_Keeping_System_with_a_RC_car/assets/104062840/bffdb9e9-b5d8-43eb-80cc-37a1cac4c8ec">
+
+![010](https://github.com/gangticket/Lane_Keeping_System_with_a_RC_car/assets/104062840/06cd1521-9ac2-4dfe-a0df-f5144e89068b)
+
+![011](https://github.com/gangticket/Lane_Keeping_System_with_a_RC_car/assets/104062840/4a1f3f30-403e-4a79-bcd8-11ba18447ec7)
+
+![012](https://github.com/gangticket/Lane_Keeping_System_with_a_RC_car/assets/104062840/1bc2a3a8-3e8f-4979-81d8-dda5ec5ed728)
+
+결과 영상은 아래 링크에서 확인 하실 수 있습니다!
+
+https://youtu.be/5Y-wMjb54zE?si=itmhFFW2_a8ZV9JC
